@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 All answers are hard.
+=======
+
+>>>>>>> parent of 95aebc7 (add text)
